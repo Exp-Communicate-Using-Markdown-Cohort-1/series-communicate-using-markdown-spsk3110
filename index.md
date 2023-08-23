@@ -10,3 +10,7 @@
 ```
 print("Hello World") 
 ```
+
+- [x] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
