@@ -6,3 +6,7 @@
 ###### Heading 6
 
 ![Image of Yactocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+print("Hello World") 
+```
